@@ -295,7 +295,8 @@ The test cell would look like this:
 
     test_cases = [
         {
-            'arg': 5
+            'arg': 5,
+            'test_function': square
         }
     ]
 
